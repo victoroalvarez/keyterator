@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # KEYTERATOR
-# Iterate over your passwords and keys and improve your memory
+# Iterate over your passwords and keys to improve your memory
 
 # Recall user to send end process when finished
 echo "Press [CTRL+C] to stop."
