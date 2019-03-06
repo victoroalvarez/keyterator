@@ -3,7 +3,7 @@
 # KEYTERATOR
 # Iterate over your passwords and keys to improve your memory
 
-# Remind user to send end process when finished
+# Remind user to end process when finished
 echo "Press [CTRL+C] to stop."
 
 # Infinite LOOP
