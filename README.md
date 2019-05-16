@@ -1,5 +1,5 @@
 # Keyterator
-![alt text](https://github.com/victoroalvarez/keyterator/blob/master/key-1294351.png "Keyterator")
+![alt text](https://github.com/victoroalvarez/keyterator/blob/master/key-1294351_640.png "Keyterator")
 Iterate over your passwords and keys to improve your memory.
 
 ## How does it works?
