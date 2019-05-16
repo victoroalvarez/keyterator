@@ -1,4 +1,5 @@
 # Keyterator
+[logo]: https://imgur.com/NJwZsIz "Keyterator"
 Iterate over your passwords and keys to improve your memory.
 
 ## How does it works?
