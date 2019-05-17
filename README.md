@@ -4,4 +4,4 @@ Iterate over your passwords and keys to improve your memory.
 Keyterator is an endless Iterating Bash script that helps you type and practice your password over and over. When your password is read, your typing is hidden and then send to /dev/null, it is not stored.
 <br>
 <br>
-<img src="https://github.com/victoroalvarez/keyterator/blob/master/key-1294351_640.png" width="100">
+<img src="https://github.com/victoroalvarez/keyterator/blob/master/key-1294351_640.png" width="150">
