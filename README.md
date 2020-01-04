@@ -1,5 +1,6 @@
 # Keyterator
-Iterate over your passwords and keys to improve your memory.
+"Useless machine" to iterate over your passwords to practice and improve your memory. This bash script sends all keystrokes to /dev/null. The same result can be achieved by typing on an unplugged keyboard ;).
+
 ## How does it works?
 Keyterator is an endless Iterating Bash script that helps you type and practice your password over and over. When your password is read, your typing is hidden and then send to /dev/null, it is not stored.
 <br>
